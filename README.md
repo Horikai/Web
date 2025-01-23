@@ -1,5 +1,5 @@
 # LuanOriGame-Web
-This is for yuuki server for web purposes.
+This is for luanori server for web purposes.
 
 ## Getting Started
 
