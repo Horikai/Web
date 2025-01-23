@@ -1,4 +1,4 @@
-# YuukiGame-Web
+# LuanOriGame-Web
 This is for yuuki server for web purposes.
 
 ## Getting Started
